@@ -1,0 +1,12 @@
+title: France-assist
+description:
+  fr: France Assist est une société privée et indépendante, distincte des organismes sociaux qui propose un service en ligne d’assistance administrative et sociale aux particuliers et aux entreprises. Nous sommes partis d’un constat simple: plusieurs milliards d’euros d’aides sont non réclamées chaque année et plus 20% des personnes éligibles ignorent leurs droits. Nous voulons faire le lien entre les particuliers et les organismes sociaux, débordés, afin de faire valoir le droit aux aides des personnes éligibles.
+  en: France Assist is a private and independent company, distinct from social organizations, which offers an online administrative and social assistance service to individuals and businesses. We started from a simple observation: several billion euros of aid are unclaimed each year and more than 20% of people are likely to be unaware of their rights. We want to make the privilege between individuals and social organizations, overwhelmed, in order to assert the right to aid from authorized people.
+package: france
+website: https://france-assist.fr/
+author:
+  type: business
+  name: France-assist
+  contact: contact@france-assist.fr
+# source: proprietary
+until: 2021-12-10
